@@ -9,3 +9,5 @@ http://199.195.199.196:5000/live/367/367.m3u8
 http://199.195.199.196:5000/live/368/368.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="Slovenské" tvg-id="Lux" tvg-logo="lux.png",Lux
 http://live.tvlux.sk:1935/lux/lux.stream_360p/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="NL" tvg-id="" tvg-logo="",HBO 1 HD
+http://panel2.iptvyayin.com:8000/live/ozgur1/ozgur1/7425.ts
