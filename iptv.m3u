@@ -20,4 +20,4 @@ https://unicast.bbxnet.sk/live/film-plus/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="Slovenské" tvg-id="Lux" tvg-logo="lux.png",Lux
 http://live.tvlux.sk:1935/lux/lux.stream_360p/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="České" tvg-id="CT1" tvg-logo="ct1.png",ČT 1
-http://213.151.233.20:8000/dna-5100-tv-pc/hls/4001v105.m3u8
+http://tv.share1.lc/live/3au1fc/79txcx/10951.ts
