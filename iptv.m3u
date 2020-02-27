@@ -2,7 +2,7 @@
 #EXTINF:-1 $ExtFilter="TV" group-title="Slovenské" tvg-id="Jednotka" tvg-logo="jednotka.png",Jednotka
 https://n4-cz.stv.livebox.sk/stv-tv/65b41f182eb84337a032a8f8c4b92574/stv1.smil/chunklist_b5251072.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="Slovenské" tvg-id="Dvojka" tvg-logo="dvojka.png",Dvojka
-http://199.195.199.196:5000/live/366/366.m3u8
+https://n4.stv.livebox.sk/stv-tv/f2796bd7704c44679c17f6c876498443/stv2.smil/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="Slovenské" tvg-id="Joj" tvg-logo="joj.png",Joj
 http://nn.geo.joj.sk/hls/joj-720.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="Slovenské" tvg-id="Joj Plus" tvg-logo="joj_plus.png",Joj Plus
