@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 $ExtFilter="TV" group-title="Slovenské" tvg-id="Jednotka" tvg-logo="jednotka.png",Jednotka
-gocache3.antik.sk/live/test_stv1-800/playlist.m3u8
+https://gocache3.antik.sk/live/test_stv1-800/playlist.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="Slovenské" tvg-id="Dvojka" tvg-logo="dvojka.png",Dvojka
 https://n4.stv.livebox.sk/stv-tv/_definst_/stv2.smil/playlist.m3u8?auth=b64:X2FueV98MTU4MjgyNjg3OHwwZDYzOGQ5YzZkZTFiYWVmMzExODcxNzNhZGViNTcxZjE2MjM1ZmVm
 #EXTINF:-1 $ExtFilter="TV" group-title="Slovenské" tvg-id="Joj" tvg-logo="joj.png",Joj
